@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w8sxBWJ7a18=",
+  "dgSpecHash": "TwjiIZaHFDw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Core\\BulkImport.Core.csproj",
+  "projectFilePath": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Core\\BulkImport.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Infrastructure\\BulkImport.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Infrastructure\\BulkImport.Infrastructure.csproj",
       "projectName": "BulkImport.Infrastructure",
-      "projectPath": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Infrastructure\\BulkImport.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Infrastructure\\BulkImport.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Ankita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

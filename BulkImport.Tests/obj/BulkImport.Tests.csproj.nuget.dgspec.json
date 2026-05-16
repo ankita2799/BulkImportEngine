@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Tests\\BulkImport.Tests.csproj": {}
+    "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Tests\\BulkImport.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Tests\\BulkImport.Tests.csproj": {
+    "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Tests\\BulkImport.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Tests\\BulkImport.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Tests\\BulkImport.Tests.csproj",
         "projectName": "BulkImport.Tests",
-        "projectPath": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Tests\\BulkImport.Tests.csproj",
+        "projectPath": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Tests\\BulkImport.Tests.csproj",
         "packagesPath": "C:\\Users\\Ankita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Tests\\obj\\",
+        "outputPath": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

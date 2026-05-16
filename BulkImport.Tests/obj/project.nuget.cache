@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NvbAXaWoGWM=",
+  "dgSpecHash": "AjCXaVnkzB4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ankita\\OneDrive\\Desktop\\BulkImport\\BulkImport.Tests\\BulkImport.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Ankita\\BulkImportEngine\\BulkImport.Tests\\BulkImport.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ankita\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\Ankita\\.nuget\\packages\\microsoft.codecoverage\\17.8.0\\microsoft.codecoverage.17.8.0.nupkg.sha512",
