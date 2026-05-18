@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BulkImport.Core")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8af2923e3ac8e0cc52188e052b45e120c03e46a3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbf6eb8a61f0f4a4ae45f32048f661c662f5d8da")]
 [assembly: System.Reflection.AssemblyProductAttribute("BulkImport.Core")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BulkImport.Core")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

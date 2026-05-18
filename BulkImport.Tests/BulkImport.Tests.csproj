@@ -17,6 +17,11 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\BulkImport.Core\BulkImport.Core.csproj" />
+    <ProjectReference Include="..\BulkImport.Infrastructure\BulkImport.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Using Include="Xunit" />
   </ItemGroup>
 
