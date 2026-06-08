@@ -1,6 +1,7 @@
 using BulkImport.Core.Interfaces;
 using BulkImport.Infrastructure.Data;
 using BulkImport.Infrastructure.Parsers;
+using BulkImport.Core.Models;
 using BulkImport.Infrastructure.Pipeline;
 using BulkImport.Infrastructure.Repositories;
 using BulkImport.Infrastructure.Validators;

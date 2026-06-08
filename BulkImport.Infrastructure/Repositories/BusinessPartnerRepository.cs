@@ -1,7 +1,7 @@
 ﻿namespace BulkImport.Infrastructure.Repositories;
 using BulkImport.Infrastructure.Entities;
 using BulkImport.Infrastructure.Data;
-using BulkImport.Infrastructure.Parsers;
+using BulkImport.Core.Models;
 using EFCore.BulkExtensions;
 
 public class BusinessPartnerRepository

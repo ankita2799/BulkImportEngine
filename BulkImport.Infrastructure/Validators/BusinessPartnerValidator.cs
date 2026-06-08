@@ -1,4 +1,4 @@
-﻿using BulkImport.Infrastructure.Parsers;
+﻿using BulkImport.Core.Models;
 using FluentValidation;
 using System;
 using System.Collections.Generic;

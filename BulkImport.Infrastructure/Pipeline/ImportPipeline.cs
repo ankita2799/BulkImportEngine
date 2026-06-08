@@ -11,7 +11,7 @@ public class ImportPipeline : IImportPipeline<BusinessPartnerImportRow>
 {
     private readonly FileParserFactory _parserFactory;
     private readonly IValidator<BusinessPartnerImportRow> _validator;
-    private readonly BusinessPartnerRepository _businessPartnerRepository;
+    private readonly IBusinessPartnerRepository _businessPartnerRepository;
     private readonly IImportRepository _importRepository;
 
     private const int ChunkSize = 1000;
@@ -19,7 +19,7 @@ public class ImportPipeline : IImportPipeline<BusinessPartnerImportRow>
     public ImportPipeline(
         FileParserFactory parserFactory,
         IValidator<BusinessPartnerImportRow> validator,
-        BusinessPartnerRepository businessPartnerRepository,
+        IBusinessPartnerRepository businessPartnerRepository,
         IImportRepository importRepository)
     {
         _parserFactory = parserFactory;

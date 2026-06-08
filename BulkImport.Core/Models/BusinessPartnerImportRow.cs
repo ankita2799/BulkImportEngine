@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BulkImport.Infrastructure.Parsers
+namespace BulkImport.Core.Models
 {
     public class BusinessPartnerImportRow : IImportRow
     {

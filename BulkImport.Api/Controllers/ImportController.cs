@@ -1,7 +1,7 @@
 ﻿namespace BulkImport.Api.Controllers;
 
 using BulkImport.Core.Interfaces;
-using BulkImport.Infrastructure.Parsers;
+using BulkImport.Core.Models;
 using Microsoft.AspNetCore.Mvc;
 
 [ApiController]

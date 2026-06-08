@@ -1,0 +1,16 @@
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\bin\Debug\net8.0\BulkImport.Infrastructure.deps.json
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\bin\Debug\net8.0\BulkImport.Infrastructure.dll
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\bin\Debug\net8.0\BulkImport.Infrastructure.pdb
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\bin\Debug\net8.0\BulkImport.Core.dll
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\bin\Debug\net8.0\BulkImport.Core.pdb
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.AssemblyInfo.cs
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.sourcelink.json
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImpo.945DFC98.Up2Date
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.dll
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\refint\BulkImport.Infrastructure.dll
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\BulkImport.Infrastructure.pdb
+C:\Users\Ankita\BulkImportEngine\BulkImport.Infrastructure\obj\Debug\net8.0\ref\BulkImport.Infrastructure.dll

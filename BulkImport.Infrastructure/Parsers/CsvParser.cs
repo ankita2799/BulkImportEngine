@@ -1,6 +1,7 @@
 ﻿namespace BulkImport.Infrastructure.Parsers;
 
 using BulkImport.Core.Interfaces;
+using BulkImport.Core.Models;
 using CsvHelper;
 using CsvHelper.Configuration;
 using System.Globalization;

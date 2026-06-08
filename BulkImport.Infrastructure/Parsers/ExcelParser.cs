@@ -4,6 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Runtime.CompilerServices;
+using BulkImport.Core.Models;
 using System.Text;
 using System.Threading.Tasks;
 
